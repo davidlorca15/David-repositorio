@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Esta es laa primera línea 
+=======
+Primera linea
+Segunda linea
+>>>>>>> rama2
