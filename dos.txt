@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 primera lina
+=======
+pprimer commit
+>>>>>>> 69c4e6ef0da3b4ca86b8f1177a2fd2c88cd612e4
